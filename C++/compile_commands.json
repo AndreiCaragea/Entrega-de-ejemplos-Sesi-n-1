@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo7",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo7\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo6",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo6\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo5",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo5\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo4",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo4\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo2",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo2\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo8",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo8\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo3",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo3\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\Andi\\Desktop\\C++\\ejemplo1",
+  "command": "clang++ -c C:\\Users\\Andi\\Desktop\\C++\\ejemplo1\\main.cpp -o C:\\Users\\Andi\\Desktop\\C++\\ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
